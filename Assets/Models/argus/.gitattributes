@@ -1,0 +1,8 @@
+argus_lowres_tex4096_argus_lowres_tex4096_Material_u1_v1.mat.meta filter=lfs diff=lfs merge=lfs -text
+argus_lowres_tex4096_u1_v1.png filter=lfs diff=lfs merge=lfs -text
+argus_lowres_tex4096_u1_v1.png.meta filter=lfs diff=lfs merge=lfs -text
+argus_lowres_tex4096.mtl filter=lfs diff=lfs merge=lfs -text
+argus_lowres_tex4096.mtl.meta filter=lfs diff=lfs merge=lfs -text
+argus_lowres_tex4096.obj filter=lfs diff=lfs merge=lfs -text
+argus_lowres_tex4096.obj.meta filter=lfs diff=lfs merge=lfs -text
+argus_lowres_tex4096_argus_lowres_tex4096_Material_u1_v1.mat filter=lfs diff=lfs merge=lfs -text

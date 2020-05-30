@@ -1,0 +1,4 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+herc_launch.mp4 filter=lfs diff=lfs merge=lfs -text
+herc_launch_nowords.mp4 filter=lfs diff=lfs merge=lfs -text
+herc_launch_words.mp4 filter=lfs diff=lfs merge=lfs -text
